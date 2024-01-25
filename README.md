@@ -42,4 +42,4 @@ Utilized SQL in Google BigQuery to write and execute queries to find the desired
 ### III. Conclusion
 * ##### The eCommerce dataset using SQL on Google BigQuery based on the Google Analytics dataset has revealed several interesting insights
 * ##### We gained valuable information about total visits, pageview, transactions, bounce rate, and revenue per traffic source,.... which could inform future business decisions
-* ##### we can visualize the data with Power BI 
+* ##### We can visualize the data with Power BI 
